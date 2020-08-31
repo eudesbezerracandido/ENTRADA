@@ -20,7 +20,7 @@ FREEDDONS ENTRADA
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801404.us.archive.org/31/items/fanart-freeddons/10.jpeg</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA/master/README.md</externallink>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>
 
