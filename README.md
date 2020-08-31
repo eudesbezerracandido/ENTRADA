@@ -4,9 +4,9 @@ FREEDDONS ENTRADA
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - FREEDDONS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/details/freeddons-icon</thumbnail>
+<thumbnail>https://ia801404.us.archive.org/21/items/freeddons-icon/9.png</thumbnail>
 <externallink></externallink>
-<fanart>https://archive.org/details/fanart-freeddons</fanart>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>
 
 
@@ -19,9 +19,9 @@ FREEDDONS ENTRADA
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/details/freeddons-icon</thumbnail>
+<thumbnail>https://ia801404.us.archive.org/31/items/fanart-freeddons/10.jpeg</thumbnail>
 <externallink></externallink>
-<fanart>https://archive.org/details/fanart-freeddons</fanart>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>
 
 
