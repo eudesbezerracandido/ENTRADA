@@ -34,8 +34,7 @@ FREEDDONS ENTRADA
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] DOWNLOADS DO ELEMENTUM + ELEMENTUM BUSTER [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<externallink>http://www.mediafire.com/file/4gkdqwzf7xoolau/plugin.video.elementum-0.1.59.zip/file</externallink>
-<externallink>http://www.mediafire.com/file/ahdjll2xk39lvvv/script.elementum.burst-0.0.49.zip/file</externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/ELEMENTUM-ELEMENTUM-BUSTER/main/README.md</externallink>
 <thumbnail>https://kodibeginner.com/wp-content/uploads/2019/11/elementum-kodi.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>
