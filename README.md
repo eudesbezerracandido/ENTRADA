@@ -1,8 +1,8 @@
 # ENTRADA
 FREEDDONS ENTRADA
 
-<channel>
 <channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] SEJAM BEM VINDOS - FREEDDONS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/27/items/fanart_20210211/sDRSfinJ_o.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -16,8 +16,8 @@ FREEDDONS ENTRADA
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channel>
 <channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] ENTRE [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/27/items/fanart_20210211/StdDCsMM_o.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA/master/README.md</externallink>
