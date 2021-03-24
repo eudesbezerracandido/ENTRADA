@@ -1,7 +1,7 @@
 # ENTRADA
 FREEDDONS ENTRADA
 
-<channels>
+<channel>
 <channels>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] SEJAM BEM VINDOS - FREEDDONS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/27/items/fanart_20210211/sDRSfinJ_o.jpg</thumbnail>
@@ -11,12 +11,12 @@ FREEDDONS ENTRADA
 
 
 [COLOR deeppink]|[/COLOR] -TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DO GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS. - [COLOR deeppink]|[/COLOR]</info>
-</channels>
+</channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
+<channel>
 <channels>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] ENTRE [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/27/items/fanart_20210211/StdDCsMM_o.jpg</thumbnail>
@@ -26,7 +26,7 @@ FREEDDONS ENTRADA
 
 
 [COLOR deeppink]|[/COLOR] - TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DA GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS. - [COLOR deeppink]|[/COLOR]</info>
-</channels>
+</channel>
 </channels> 
  
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
