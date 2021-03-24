@@ -37,7 +37,7 @@ FREEDDONS ENTRADA
 <thumbnail></thumbnail>
 <fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
 <info>
-</channels>
+</channels> 
 
 
  
