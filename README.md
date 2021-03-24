@@ -3,7 +3,7 @@ FREEDDONS ENTRADA
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - FREEDDONS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] SEJAM BEM VINDOS - FREEDDONS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/27/items/fanart_20210211/sDRSfinJ_o.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
@@ -29,7 +29,16 @@ FREEDDONS ENTRADA
 </channel>
 </channels>
  
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] DOAÇÕES [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
+<info>
+</channels>
 
 
  
