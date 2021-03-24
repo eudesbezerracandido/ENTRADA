@@ -35,7 +35,7 @@ FREEDDONS ENTRADA
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] DOAÇÕES [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://</externallink>
 <fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
 <info>
 </channels>
