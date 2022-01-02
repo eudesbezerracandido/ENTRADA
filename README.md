@@ -39,7 +39,7 @@ FREEDDONS ENTRADA
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] SCRIPT ELEMENTUM [/COLOR][COLOR white][/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<link>https://bit.ly/3HucUPS</link>
+<externallink>https://bit.ly/3HucUPS</externallink>
 <thumbnail>https://archive.org/download/guide-to-install-elementum-kodi-addon/Guide-To-Install-Elementum-Kodi-Addon.jpg</thumbnail>
 <fanart>https://archive.org/download/guide-to-install-elementum-kodi-addon/Guide-To-Install-Elementum-Kodi-Addon.jpg</fanart>
 <info></info>
