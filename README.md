@@ -17,6 +17,19 @@ FREEDDONS ENTRADA
 
 <channels>
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] FAÇA  UMA  DOAÇÃO  PIX > (ALAN78TURING@GMAIL.COM)[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/27/items/fanart_20210211/sDRSfinJ_o.jpg</thumbnail>
+<fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
+<info>
+
+[COLOR deeppink]|[/COLOR] AJUDE A MANTER ESSE TRABALHO PÓS OS CUSTOS DE ENERGIA AUMENTARAM, ONDE REQUER TEMPO PARA SENTAR E PROGRAMAR AS ATUALIZAÇÕES DIÁRIAS DE TODO CONTEÚDO EXISTENTE NESSE EDDON. [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] ENTRE [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/27/items/fanart_20210211/StdDCsMM_o.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA/master/README.md</externallink>
