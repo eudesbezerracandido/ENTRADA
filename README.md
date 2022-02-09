@@ -18,7 +18,7 @@ FREEDDONS ENTRADA
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] FAÇA UMA DOAÇÃO VIA PIX > (alan78turing@gmail.com)[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/27/items/fanart_20210211/sDRSfinJ_o.jpg</thumbnail>
+<thumbnail>https://ia601400.us.archive.org/4/items/qr-code_202202/QR%20Code.PNG</thumbnail>
 <fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
 <info>
 
