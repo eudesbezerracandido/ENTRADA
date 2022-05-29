@@ -4,7 +4,7 @@ FREEDDONS ENTRADA
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] BEM VINDOS-FREEDDONS [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/27/items/fanart_20210211/sDRSfinJ_o.jpg</thumbnail>
+<thumbnail>https://archive.org/details/fanart_20210211/sDRSfinJ_o.jpg</thumbnail>
 <fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
 <info>
 
