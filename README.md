@@ -1,5 +1,5 @@
 # ENTRADA
-FREEDDONS ENTRADA
+
 
 <channels>
 <channel>
