@@ -21,7 +21,7 @@
 <info>
 [COLOR deeppink]|[/COLOR] AJUDE  A  MANTER  ESSE  TRABALHO  POIS  OS  CUSTOS  DE  ENERGIA  AUMENTARAM, ONDE  REQUER  TEMPO  PARA  SENTAR  E  PROGRAMAR  AS  ATUALIZAÇÕES  DIÁRIAS DE  TODO  CONTEÚDO  EXISTENTE  NESSE  EDDON. [COLOR deeppink]|[/COLOR]</info>
 </channel>
-</channels>
+</channels> 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
