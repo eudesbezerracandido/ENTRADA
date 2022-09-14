@@ -13,6 +13,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels> 
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] ENTRE NO FREEDDONS [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia803402.us.archive.org/34/items/fanart_20210211/StdDCsMM_o.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA/master/README.md</externallink>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info>
+[COLOR deeppink]|[/COLOR] - TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DA GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS. - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>  
+
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] DEPUTADO FEDERAL DE SÃO PAULO VOTE 2223 [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
@@ -38,19 +49,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels> 
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] ENTRE NO FREEDDONS [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia803402.us.archive.org/34/items/fanart_20210211/StdDCsMM_o.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA/master/README.md</externallink>
-<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
-<info>
-[COLOR deeppink]|[/COLOR] - TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DA GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS. - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>  
- 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
- 
+
 
 
 
