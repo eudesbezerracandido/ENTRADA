@@ -22,11 +22,13 @@
 <info>
 [COLOR deeppink]|[/COLOR] - TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DA GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS. - [COLOR deeppink]|[/COLOR]</info>
 </channel>
-</channels>  
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] DEPUTADO FEDERAL DE SÃO PAULO VOTE 2223 [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] DEPUTADO  DE SÃO PAULO [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/15/items/nando_202209/WhatsApp%20Image%202022-09-09%20at%2011.13.58.jpeg</thumbnail>
 <fanart>https://ia601506.us.archive.org/15/items/nando_202209/NANDO1.jpeg</fanart>
 <info>
@@ -38,7 +40,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DEPUTADOS DO PERNAMBUCO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DEPUTADOS DO PERNAMBUCO [/COLOR][B][COLOR white][/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
 <externallink></externallink>
 <thumbnail>https://ia601406.us.archive.org/32/items/11611/WhatsApp%20Image%202022-09-14%20at%2002.32.54.jpeg</thumbnail>
 <fanart>https://ia601505.us.archive.org/6/items/1161_20220914/WhatsApp%20Image%202022-09-14%20at%2002.49.02.jpeg</fanart>
