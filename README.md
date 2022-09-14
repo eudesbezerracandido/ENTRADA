@@ -41,7 +41,7 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DEPUTADOS DO PERNAMBUCO [/COLOR][B][COLOR white][/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/DEP.-PERNAMBUCO-UPDATE/main/README.md</externallink>
 <thumbnail>https://ia601406.us.archive.org/32/items/11611/WhatsApp%20Image%202022-09-14%20at%2002.32.54.jpeg</thumbnail>
 <fanart>https://ia601505.us.archive.org/6/items/1161_20220914/WhatsApp%20Image%202022-09-14%20at%2002.49.02.jpeg</fanart>
 <info> 
