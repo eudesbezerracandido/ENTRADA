@@ -41,7 +41,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] FLUTUANDO [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<externallink>https://archive.org/download/FRLUTUAR/FRLUTUAR.mp4</externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/FLUTUANDO-AUTISMO/main/README.md</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/uo0XfFnovYeQ27YyW6ayK5SM6w5.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
