@@ -42,10 +42,18 @@
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] FLUTUANDO ( AUTISMO ) [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FLUTUANDO-AUTISMO/main/README.md</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/uo0XfFnovYeQ27YyW6ayK5SM6w5.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/hPRfIKy7umoC9SNoEHapXFoi4PY.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
-[COLOR deeppink]|[/COLOR] Um pai descobre que seu filho é Autista, o que o diferencia de outras crianças. Para manter os dois a salvo do julgamento do mundo, papai o esconde. Porém, quando a capacidade de seu filho se tornar pública, papai deve decidir se quer fugir ou se esconder ou aceitar seu filho como ele é. Aceitar um diagnóstico de autismo é essencial. Ainda mais se estivermos falando de uma criança, a aceitação por parte da família, principalmente dos pais, faz toda a diferença. A animação, com sete minutos de duração, conta a história de um garoto que tem o poder de flutuar (o que dá nome ao curta). Com a desaprovação da vizinhança e das pessoas ao redor para essa “diferença” da criança, o pai opta por isolar-se e manter o menino em casa. A tentativa é de protegê-lo. Qualquer semelhança com histórias de famílias afetadas pelo autismo ou outras condições de saúde não é mera coincidência. Um curta da Pixar baseado em autismo.[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] O autismo é um transtorno do desenvolvimento neurológico que afeta a maneira como uma pessoa se comunica, interage socialmente e processa informações. Embora as causas do autismo ainda sejam desconhecidas, sabe-se que é um distúrbio complexo que pode afetar indivíduos de maneiras diferentes.
+
+As pessoas com autismo podem ter dificuldades em se comunicar verbalmente, interpretar o comportamento dos outros e em entender as nuances sociais. Essas dificuldades podem afetar sua capacidade de fazer amizades e se envolver em atividades sociais.
+
+Além disso, as pessoas com autismo podem ser hiper ou hiposensíveis a certos estímulos, como sons, luzes ou texturas, o que pode afetar sua capacidade de se concentrar ou se sentir confortáveis em determinados ambientes.
+
+No entanto, é importante lembrar que o autismo não define a pessoa e que indivíduos com autismo têm interesses, talentos e personalidades únicas. Com o suporte adequado, muitos indivíduos com autismo podem aprender a lidar com suas dificuldades e desenvolver habilidades que lhes permitam ter uma vida plena e significativa.
+
+Por isso, é importante promover a inclusão e a compreensão do autismo na sociedade, para que as pessoas com autismo possam ser valorizadas e respeitadas por suas habilidades e contribuições únicas.[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels> 
 
