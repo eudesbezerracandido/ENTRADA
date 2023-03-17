@@ -29,10 +29,12 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] DOAÇÃO VIA PIX >(alan78turing@gmail.com)[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia802507.us.archive.org/32/items/free_20220714/freeddons.jpg</thumbnail>
+<thumbnail>https://ia601606.us.archive.org/33/items/qrcode_202303/QRCODE.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
-[COLOR deeppink]|[/COLOR] AJUDE  A  MANTER  ESSE  TRABALHO  POIS  OS  CUSTOS  DE  ENERGIA  AUMENTARAM, ONDE  REQUER  TEMPO  PARA  SENTAR  E  PROGRAMAR  AS  ATUALIZAÇÕES  DIÁRIAS DE  TODO  CONTEÚDO  EXISTENTE  NESSE  EDDON. [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] Estamos aqui para falar sobre uma iniciativa que, com certeza, pode mudar a forma como assistimos filmes online. Freedons é um repositório de filmes online via streaming, que busca levar entretenimento de qualidade para todos, de forma gratuita e acessível.
+Sabemos que muitas pessoas dependem de plataformas de streaming para assistir filmes, mas nem sempre esses serviços são acessíveis para todos. Por isso, Freedons nasceu com o objetivo de democratizar o acesso aos filmes, sem cobrar um centavo por isso.
+Mas para manter esse projeto vivo e funcionando, precisamos de sua ajuda. Todas as doações são importantes e ajudam a manter o site no ar, atualizado e com uma grande variedade de filmes para todos os gostos. [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels> 
 
