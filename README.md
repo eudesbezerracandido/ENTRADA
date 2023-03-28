@@ -29,7 +29,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] QUEM SOMOS PARA SUA  DOAÇÃO VIA PIX >(alan78turing@gmail.com)[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<externallink>https://archive.org/download/freeddons_202303/Freeddons.mp4</externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/QUEM-SOMOS-UPDATE/main/README.md</externallink>
 <thumbnail>https://ia601606.us.archive.org/33/items/qrcode_202303/QRCODE.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
