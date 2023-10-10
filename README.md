@@ -17,7 +17,7 @@
 
 <channels> 
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] ENTRE NO FREEDDONS [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white] ENTRE NO FREEDDONS [/COLOR] [COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <thumbnail>https://ia803402.us.archive.org/34/items/fanart_20210211/StdDCsMM_o.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA/master/README.md</externallink>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] DOAÇÃO VIA PIX >(alan78turing@gmail.com)[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white] DOAÇÃO VIA PIX >(alan78turing@gmail.com)[/COLOR] [COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/QUEM-SOMOS-UPDATE/main/README.md</externallink>
 <thumbnail>https://ia601606.us.archive.org/33/items/qrcode_202303/QRCODE.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
@@ -45,7 +45,7 @@ Mas para manter esse projeto vivo e funcionando, precisamos de sua ajuda. Todas 
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] ENTENDENDO O AUTISMO [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white] ENTENDENDO O AUTISMO [/COLOR] [COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FLUTUANDO-AUTISMO/main/README.md</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/hPRfIKy7umoC9SNoEHapXFoi4PY.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
