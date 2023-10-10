@@ -7,7 +7,7 @@
 <thumbnail>https://ia903402.us.archive.org/34/items/fanart_20210211/sDRSfinJ_o.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
-[COLOR deeppink]|[/COLOR] -TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DO GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS.[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] -TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DO GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS.[COLOR deeppink]|[/COLOR]</info> 
 </channel>
 </channels>
 
