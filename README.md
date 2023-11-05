@@ -5,7 +5,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white] BEM VINDOS-FREEDDONS [/COLOR] [COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR]</name> 
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] BEM VINDOS-FREEDDONS [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/be01a7b1.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info>
@@ -17,10 +17,10 @@
 
 <channels> 
 <channel>
-<name>[COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white] ENTRE NO FREEDDONS [/COLOR] [COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR]</name>
-<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/3fe2d2af.jpg</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] ENTRE NO FREEDDONS [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA/master/README.md</externallink>
-<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
 [COLOR deeppink]|[/COLOR] - TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DA GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS. - [COLOR deeppink]|[/COLOR]</info>
 </channel>
