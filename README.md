@@ -47,7 +47,7 @@ Mas para manter esse projeto vivo e funcionando, precisamos de sua ajuda. Todas 
 <channel>
 <name>[COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white] ENTENDENDO O AUTISMO [/COLOR] [COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FLUTUANDO-AUTISMO/main/README.md</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/hPRfIKy7umoC9SNoEHapXFoi4PY.jpg</thumbnail>
+<thumbnail>https://ia800508.us.archive.org/3/items/autismo_202311/autismo-guia-fapesp.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info>
 [COLOR deeppink]|[/COLOR] O autismo é um transtorno do desenvolvimento neurológico que afeta a maneira como uma pessoa se comunica, interage socialmente e processa informações. Embora as causas do autismo ainda sejam desconhecidas, sabe-se que é um distúrbio complexo que pode afetar indivíduos de maneiras diferentes.
