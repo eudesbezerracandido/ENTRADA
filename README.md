@@ -6,8 +6,8 @@
 <channels>
 <channel>
 <name>[COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white] BEM VINDOS-FREEDDONS [/COLOR] [COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR]</name> 
-<thumbnail>https://ia903402.us.archive.org/34/items/fanart_20210211/sDRSfinJ_o.jpg</thumbnail>
-<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/be01a7b1.jpg</thumbnail>
+<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info>
 [COLOR deeppink]|[/COLOR] -TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DO GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS.[COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -18,9 +18,9 @@
 <channels> 
 <channel>
 <name>[COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white] ENTRE NO FREEDDONS [/COLOR] [COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR]</name>
-<thumbnail>https://ia803402.us.archive.org/34/items/fanart_20210211/StdDCsMM_o.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/3fe2d2af.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA/master/README.md</externallink>
-<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info>
 [COLOR deeppink]|[/COLOR] - TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DA GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS. - [COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -32,8 +32,8 @@
 <channel>
 <name>[COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white] DOAÇÃO VIA PIX >(alan78turing@gmail.com)[/COLOR] [COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/QUEM-SOMOS-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia601606.us.archive.org/33/items/qrcode_202303/QRCODE.jpg</thumbnail>
-<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/90fd9e10.jpg</thumbnail>
+<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info>
 [COLOR deeppink]|[/COLOR] Estamos aqui para falar sobre uma iniciativa que, com certeza, pode mudar a forma como assistimos filmes online. Freedons é um repositório de filmes online via streaming, que busca levar entretenimento de qualidade para todos, de forma gratuita e acessível.
 Sabemos que muitas pessoas dependem de plataformas de streaming para assistir filmes, mas nem sempre esses serviços são acessíveis para todos. Por isso, Freedons nasceu com o objetivo de democratizar o acesso aos filmes, sem cobrar um centavo por isso.
@@ -48,7 +48,7 @@ Mas para manter esse projeto vivo e funcionando, precisamos de sua ajuda. Todas 
 <name>[COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white] ENTENDENDO O AUTISMO [/COLOR] [COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FLUTUANDO-AUTISMO/main/README.md</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/hPRfIKy7umoC9SNoEHapXFoi4PY.jpg</thumbnail>
-<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info>
 [COLOR deeppink]|[/COLOR] O autismo é um transtorno do desenvolvimento neurológico que afeta a maneira como uma pessoa se comunica, interage socialmente e processa informações. Embora as causas do autismo ainda sejam desconhecidas, sabe-se que é um distúrbio complexo que pode afetar indivíduos de maneiras diferentes.
 As pessoas com autismo podem ter dificuldades em se comunicar verbalmente, interpretar o comportamento dos outros e em entender as nuances sociais. Essas dificuldades podem afetar sua capacidade de fazer amizades e se envolver em atividades sociais.
