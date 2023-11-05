@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR  orangered]|||[/COLOR] [COLOR white] DOAÇÃO VIA PIX >(alan78turing@gmail.com)[/COLOR] [COLOR orangered]|||[/COLOR][COLORdeeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR  orangered]|||[/COLOR] [COLOR white] DOAÇÃO VIA PIX >(alan78turing@gmail.com)[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/QUEM-SOMOS-UPDATE/main/README.md</externallink>
 <thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/90fd9e10.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
@@ -45,7 +45,7 @@ Mas para manter esse projeto vivo e funcionando, precisamos de sua ajuda. Todas 
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white] ENTENDENDO O AUTISMO [/COLOR] [COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR green]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] ENTENDENDO O AUTISMO [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR  indigo]|||[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FLUTUANDO-AUTISMO/main/README.md</externallink>
 <thumbnail>https://ia800508.us.archive.org/3/items/autismo_202311/autismo-guia-fapesp.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
