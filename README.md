@@ -63,7 +63,7 @@ Por isso, é importante promover a inclusão e a compreensão do autismo na soci
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] MICHAEL JACKSON  - TRIBUTO [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<link>https://archive.org/download/michael-jackson.-clip/Michael%20Jackson.Clip.mp4</link>
+<externallink>https://archive.org/download/michael-jackson.-clip/Michael%20Jackson.Clip.mp4</externallink>
 <thumbnail>https://ia902706.us.archive.org/14/items/tributo_202311/MICHAEL%20JACKSON.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info>
