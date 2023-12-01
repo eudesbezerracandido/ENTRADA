@@ -3,17 +3,7 @@
 
 
 
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] BEM VINDOS [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/be01a7b1.jpg</thumbnail>
-<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
-<info>
-[COLOR deeppink]|[/COLOR] -TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DO GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS.[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels> 
 <channel>
@@ -58,20 +48,6 @@ Por isso, é importante promover a inclusão e a compreensão do autismo na soci
 </channel>
 </channels> 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] MICHAEL JACKSON  - TRIBUTO [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/MICHAEL-TRIBUTO/main/README.md</externallink>
-<thumbnail>https://ia902706.us.archive.org/14/items/tributo_202311/MICHAEL%20JACKSON.jpg</thumbnail>
-<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
-<info>
-[COLOR deeppink]|[/COLOR] Michael Joseph Jackson (Gary, 29 de agosto de 1958 – Los Angeles, 25 de junho de 2009) foi um cantor, compositor e dançarino estadunidense. Apelidado de "Rei do Pop", foi um dos ícones culturais mais importantes e influentes de todos os tempos e um dos maiores artistas da história da música.[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
