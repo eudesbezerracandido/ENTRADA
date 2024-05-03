@@ -43,6 +43,28 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels> 
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] INSTALAÇÃO DE RASTREADORES BASES - BRASIL [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia600303.us.archive.org/18/items/bases-12/BASES%201.jpeg</thumbnail>
+<fanart>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</fanart>
+<info>
+[COLOR deeppink]|[/COLOR] Na América, entendemos que seu veículo é mais do que apenas um meio de transporte ele é uma parte vital de sua vida diária e um investimento significativo que merece a máxima proteção. Com sede no  Brasil  e atendendo a uma vasta gama de clientes desde 2018, oferecemos soluções completas em proteção veicular e sistemas avançados de rastreamento para garantir que você e seu veículo estejam sempre seguros. [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels> 
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] BASES DE ATENDIMENTO PRESENCIAL - NACIONAL [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia600303.us.archive.org/18/items/bases-12/BASES%202.jpeg</thumbnail>
+<fanart>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</fanart>
+<info>
+[COLOR deeppink]|[/COLOR] Na América, entendemos que seu veículo é mais do que apenas um meio de transporte ele é uma parte vital de sua vida diária e um investimento significativo que merece a máxima proteção. Com sede no  Brasil  e atendendo a uma vasta gama de clientes desde 2018, oferecemos soluções completas em proteção veicular e sistemas avançados de rastreamento para garantir que você e seu veículo estejam sempre seguros. [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
 
 
 
