@@ -33,7 +33,7 @@
 
 <channels> 
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] CONSULTOR AMÉRICA - QR CODE WHATSAPP [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] CONSULTOR - QR CODE WHATSAPP [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia600306.us.archive.org/19/items/qr-code-preta/QR%20CODE%20PRETA.jpg</thumbnail>
 <fanart>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</fanart>
 <info>
