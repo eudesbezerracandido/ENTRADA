@@ -7,7 +7,7 @@
 
 <channels> 
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] FREEDDONS  ENTRE [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] FREEDDONS  ENTRE [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name> 
 <thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/3fe2d2af.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA/master/README.md</externallink>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
