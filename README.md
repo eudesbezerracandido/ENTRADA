@@ -3,7 +3,7 @@
 
 
 
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels> 
 <channel>
@@ -18,52 +18,21 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels> 
+<channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] AMÉRICA - PROTEÇÃO VEICULAR & RASTREADORES [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/AMERICA-UPDATE/main/README.md</externallink>
-<fanart>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</fanart>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR  orangered]|||[/COLOR] [COLOR white] DOAÇÃO VIA PIX (alan78turing@gmail.com) [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/QUEM-SOMOS-UPDATE/main/README.md</externallink>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/90fd9e10.jpg</thumbnail>
+<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info>
-[COLOR deeppink]|[/COLOR] Na América, entendemos que seu veículo é mais do que apenas um meio de transporte ele é uma parte vital de sua vida diária e um investimento significativo que merece a máxima proteção. Com sede no  Brasil  e atendendo a uma vasta gama de clientes desde 2018, oferecemos soluções completas em proteção veicular e sistemas avançados de rastreamento para garantir que você e seu veículo estejam sempre seguros. [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] Estamos aqui para falar sobre uma iniciativa que, com certeza, pode mudar a forma como assistimos filmes online. Freedons é um repositório de filmes online via streaming, que busca levar entretenimento de qualidade para todos, de forma gratuita e acessível.
+Sabemos que muitas pessoas dependem de plataformas de streaming para assistir filmes, mas nem sempre esses serviços são acessíveis para todos. Por isso, Freedons nasceu com o objetivo de democratizar o acesso aos filmes, sem cobrar um centavo por isso.
+Mas para manter esse projeto vivo e funcionando, precisamos de sua ajuda. Todas as doações são importantes e ajudam a manter o site no ar, atualizado e com uma grande variedade de filmes para todos os gostos. [COLOR deeppink]|[/COLOR]</info>
 </channel>
-</channels>
+</channels> 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels> 
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] CONSULTOR - QR CODE WHATSAPP [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia800309.us.archive.org/28/items/qr-code-oficial/QR%20CODE%20OFICIAL.jpg</thumbnail>
-<fanart>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</fanart>
-<info>
-[COLOR deeppink]|[/COLOR] Na América, entendemos que seu veículo é mais do que apenas um meio de transporte ele é uma parte vital de sua vida diária e um investimento significativo que merece a máxima proteção. Com sede no  Brasil  e atendendo a uma vasta gama de clientes desde 2018, oferecemos soluções completas em proteção veicular e sistemas avançados de rastreamento para garantir que você e seu veículo estejam sempre seguros. [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels> 
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] INSTALAÇÃO DE RASTREADORES BASES - BRASIL [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia600303.us.archive.org/18/items/bases-12/BASES%201.jpeg</thumbnail>
-<fanart>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</fanart>
-<info>
-[COLOR deeppink]|[/COLOR] Na América, entendemos que seu veículo é mais do que apenas um meio de transporte ele é uma parte vital de sua vida diária e um investimento significativo que merece a máxima proteção. Com sede no  Brasil  e atendendo a uma vasta gama de clientes desde 2018, oferecemos soluções completas em proteção veicular e sistemas avançados de rastreamento para garantir que você e seu veículo estejam sempre seguros. [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels> 
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] BASES DE ATENDIMENTO PRESENCIAL - NACIONAL [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia600303.us.archive.org/18/items/bases-12/BASES%202.jpeg</thumbnail>
-<fanart>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</fanart>
-<info>
-[COLOR deeppink]|[/COLOR] Na América, entendemos que seu veículo é mais do que apenas um meio de transporte ele é uma parte vital de sua vida diária e um investimento significativo que merece a máxima proteção. Com sede no  Brasil  e atendendo a uma vasta gama de clientes desde 2018, oferecemos soluções completas em proteção veicular e sistemas avançados de rastreamento para garantir que você e seu veículo estejam sempre seguros. [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
 
 
 
